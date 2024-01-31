@@ -21,6 +21,7 @@ public class CheckingPush {
         System.out.println("pull operations");
         //pull
         //fetch + merge
+        //today is ice 1
     }
 
 }
