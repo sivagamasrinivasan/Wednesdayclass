@@ -19,6 +19,7 @@ public class CheckingPush {
        // initializing git, .gitconfig, .gitignore , commit then push 
        //changes
         System.out.println("pull operations");
+        //pull
     }
 
 }
