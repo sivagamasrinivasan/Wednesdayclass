@@ -18,6 +18,7 @@ public class CheckingPush {
        // push operation checking
        // initializing git, .gitconfig, .gitignore , commit then push 
        //changes
+        System.out.println("pull operations");
     }
 
 }
