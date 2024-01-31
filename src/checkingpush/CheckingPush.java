@@ -17,6 +17,7 @@ public class CheckingPush {
     public static void main(String[] args) {
        // push operation checking
        // initializing git, .gitconfig, .gitignore , commit then push 
+       //changes
     }
 
 }
