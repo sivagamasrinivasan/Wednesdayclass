@@ -20,6 +20,7 @@ public class CheckingPush {
        //changes
         System.out.println("pull operations");
         //pull
+        //fetch + merge
     }
 
 }
